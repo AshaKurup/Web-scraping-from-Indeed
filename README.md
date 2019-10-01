@@ -1,2 +1,14 @@
-# Web scraping and Mental health dataset analysiS
-Job details have been extracted from Indeed using Beautiful soup
+# Work done
+1. Web-scraping from indeed website using Beautiful soup:
+a) Extracted details like Job title, description, company name, salary and job details related to data science job from indeed website
+b) Made sure that NA is appended if a particular informaion is missing in the website
+c) Dataset created 
+
+2. Mental health dataset analysis and prediction
+Problem statement: To find if a patient should be treated of his/her mental illness based on the attributes in the dataset
+a) Data cleaning: Missing values, outliers, incorrect values etc
+b) Data exploration and visualisation
+c) Label encoding
+d) Feature engineering
+e) Model selection with parameter tuning
+f) Choosing the final model and prediction
